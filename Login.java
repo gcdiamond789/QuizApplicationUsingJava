@@ -1,4 +1,3 @@
-//Login page
 package quiz.application;
 //JFrame class is in swing package
 //swing package come from the extended package of java so javax.swing.*;  
